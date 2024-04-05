@@ -1,6 +1,6 @@
 # mern-ecommerce-backend
 
-Welcome to the backend of your MERN E-commerce application, where seamless functionality meets robust performance to drive your online store forward. Powered by the dynamic combination of MongoDB, Express.js, React.js, and Node.js, our backend solution provides the foundation for building a feature-rich and scalable e-commerce platform.
+Welcome to the backend of your MERN E-commerce application, where seamless functionality meets robust performance to drive your online store forward. Powered by the dynamic combination of MongoDB, Express.js, and Node.js, our backend solution provides the foundation for building a feature-rich and scalable e-commerce platform.
 
 # Key Features:
 
